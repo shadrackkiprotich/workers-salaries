@@ -1,0 +1,7 @@
+C:\Users\shadrack myles\source\repos\workers salaries\workers salaries\bin\Debug\workers salaries.exe.config
+C:\Users\shadrack myles\source\repos\workers salaries\workers salaries\bin\Debug\workers salaries.exe
+C:\Users\shadrack myles\source\repos\workers salaries\workers salaries\bin\Debug\workers salaries.pdb
+C:\Users\shadrack myles\source\repos\workers salaries\workers salaries\obj\Debug\workers salaries.csprojAssemblyReference.cache
+C:\Users\shadrack myles\source\repos\workers salaries\workers salaries\obj\Debug\workers salaries.csproj.CoreCompileInputs.cache
+C:\Users\shadrack myles\source\repos\workers salaries\workers salaries\obj\Debug\workers salaries.exe
+C:\Users\shadrack myles\source\repos\workers salaries\workers salaries\obj\Debug\workers salaries.pdb
